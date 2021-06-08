@@ -1,3 +1,4 @@
+// the blue box
 <template>
   <div class="hero is-medium is-bold">
     <div class="hero-body">
