@@ -3,7 +3,7 @@ export const state = () => ({
     {
       id: 1,
       title: 'Product 1',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+      description: ' ipsum dolor sit amet, consectetur adipiscing elit',
       price: 50,
       ratings: 3,
       reviews: 5,
@@ -77,7 +77,7 @@ export const state = () => ({
       title: 'Product 7',
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
       price: 50,
-      ratings: 5,
+      ratings: 4,
       reviews: 7,
       isAddedToCart: false,
       isAddedBtn: false,
