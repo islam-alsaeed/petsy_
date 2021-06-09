@@ -11,24 +11,6 @@
         <h2 class="subtitle">
           god bless us
         </h2>
-        <p>branch 3
-          test1.3
-        </p>
-        <p>branch 4
-          test 1
-        </p>
-        <div>
-        <p>branch 5
-          test 1
-        </p>
-        <p>test 2</p>
-        <p>test 3</p>
-        <p>test 3.1</p>
-        </div>
-        <div>
-          <p>test 1</p>
-          <p>test 2</p>
-        </div>
       </div>
     </div>
   </div>
