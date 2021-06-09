@@ -27,6 +27,7 @@
         </div>
         <div>
           <p>test 1</p>
+          <p>test 2</p>
         </div>
       </div>
     </div>
