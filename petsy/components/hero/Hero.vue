@@ -12,6 +12,8 @@
         <h2 class="subtitle">
           god bless us
         </h2>
+
+        <p>hello branch 2</p>
       </div>
     </div>
   </div>
